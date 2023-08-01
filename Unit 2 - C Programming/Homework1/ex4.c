@@ -13,6 +13,5 @@ void main () {
 	fflush(stdout);
 	scanf ("%f", &a);
 	scanf ("%f", &b);
-	printf("The sum is %f", a + b);
+	printf("The product is %f", a * b);
 }
-

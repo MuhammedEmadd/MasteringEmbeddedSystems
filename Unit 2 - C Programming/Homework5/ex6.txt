@@ -1,0 +1,3 @@
+Example 6 Solution: 
+ * Size of union = 32
+ * Size of Structure = 40
